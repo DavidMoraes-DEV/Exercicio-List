@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.exe
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.deps.json
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\bin\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.dll
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.pdb
+C:\ProgramasCSharp\ConceitoDeList\ExercicioDeFixacao\ExercicioDeFixacao\obj\Debug\netcoreapp3.1\ExercicioDeFixacao.genruntimeconfig.cache
